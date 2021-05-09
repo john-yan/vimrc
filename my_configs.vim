@@ -14,3 +14,4 @@ let g:syntastic_mode_map = {
 
 
 let g:AutoPairs = {}
+let g:snipMate = { 'snippet_version' : 1 }
